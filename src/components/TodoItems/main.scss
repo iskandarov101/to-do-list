@@ -1,0 +1,8 @@
+.input-todo {
+  border: none;
+  border-color: transparent;
+  outline: none;
+  &:focus{
+    box-shadow: 0 0 0 3px rgb(219, 219, 250);
+  }
+}
